@@ -1,0 +1,29 @@
+{
+  "name": "node_scraper",
+  "version": "1.0.0",
+  "description": "Node web scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaziahmed91/Node-Scraper.git"
+  },
+  "keywords": [
+    "node",
+    "web",
+    "scraper"
+  ],
+  "author": "Kazi Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaziahmed91/Node-Scraper/issues"
+  },
+  "homepage": "https://github.com/kaziahmed91/Node-Scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "console.table": "^0.7.0",
+    "request": "^2.72.0"
+  }
+}
